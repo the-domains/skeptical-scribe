@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Skeptical Scribe]]></title>
+        <description><![CDATA[Skeptical Scribe]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Feb 2016 16:59:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>What is "funny"? And how do we use that word in our everyday conversations?</p>]]></description>
+            <link>undefined201099d2-3bba-433f-9ef8-7104a2e5226c/index.html</link>
+            <guid isPermaLink="false">201099d2-3bba-433f-9ef8-7104a2e5226c</guid>
+            <pubDate>Tue, 09 Feb 2016 16:49:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
