@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Skeptical Scribe]]></title>
         <description><![CDATA[Skeptical Scribe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/skeptical-scribe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 16:59:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 17:19:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/skeptical-scribe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>What is "funny"? And how do we use that word in our everyday conversations?</p>]]></description>
-            <link>undefined201099d2-3bba-433f-9ef8-7104a2e5226c/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/983e12b4-da03-49b3-a9de-d0bc85efe882.gif">]]></description>
+            <link>https://thegrid.ai/skeptical-scribe/201099d2-3bba-433f-9ef8-7104a2e5226c/index.html</link>
             <guid isPermaLink="false">201099d2-3bba-433f-9ef8-7104a2e5226c</guid>
-            <pubDate>Tue, 09 Feb 2016 16:49:37 GMT</pubDate>
+            <pubDate>Tue, 09 Feb 2016 16:55:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
