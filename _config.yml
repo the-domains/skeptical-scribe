@@ -1,0 +1,28 @@
+name: Skeptical Scribe
+favicon: null
+layout_spectrum: 0.7584058819338679
+typography_spectrum: 0.28113034600391984
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.26212697150185704
+  lightness: 0.7145279049873352
+  saturation: 0.5576172929722816
+  rhythmicContrast: 0.5380967401433736
+purpose: []
